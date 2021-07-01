@@ -1,7 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Rancho&family=Roboto&display=swap');
+
 /*using colors for coolor.org #abd1dc, #dcacb2, #dcc7ac*/
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
 
 body {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Rancho, sans-serif;
+    font-weight: 300;
     background-color: #abd1dc;
     color: #000;
 }
