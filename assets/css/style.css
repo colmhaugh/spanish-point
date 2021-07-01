@@ -14,3 +14,15 @@ body {
     background-color: #abd1dc;
     color: #000;
 }
+
+/*headings and logo*/
+
+h1, h2 {
+    font-size: Rancho, sans-serif;
+    letter-spacing: 4px;
+}
+
+#logo{
+    float: left;
+    font-size: 280%;
+}
