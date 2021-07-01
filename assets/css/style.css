@@ -117,10 +117,10 @@ h1, h2 {
     width: 33%;
 }
 
-/* 
-#about-text-outer {     
-    
-    background: url(../images/oceanbackground.webp) no-repeat center center;
-    background-size: 100%;
+
+#about-text-outer div {   
+    box-sizing: border-box;  
+   
+  /*  background: url(../images/oceanbackground.webp) no-repeat center center;
+    background-size: 100%; */
 }
-*/
