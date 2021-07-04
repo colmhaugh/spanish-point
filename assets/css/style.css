@@ -99,6 +99,8 @@ h1, h2 {
     padding: 10px;
     float: left;
     width: 66%;
+    background-color: white;
+    box-shadow: 5px 10px;
    /* background-color: rgba(67, 82, 86, .7); */
 }
 
@@ -115,6 +117,10 @@ h1, h2 {
 #about-googlemap{
     float: right;
     width: 33%;
+}
+
+#about-text-outer{
+    padding: 2%;
 }
 
 
