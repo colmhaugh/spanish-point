@@ -100,7 +100,7 @@ h1, h2 {
     float: left;
     width: 66%;
     background-color: white;
-    box-shadow: 5px 10px;
+    box-shadow: 5px 10px #888888;
    /* background-color: rgba(67, 82, 86, .7); */
 }
 
@@ -129,4 +129,26 @@ h1, h2 {
    
   /*  background: url(../images/oceanbackground.webp) no-repeat center center;
     background-size: 100%; */
+}
+
+/* footer */
+
+footer{
+    height: 150px;
+
+    }
+
+.social-networks{
+    text-align: center;
+}
+
+.social-networks > li{
+    display: inline;
+}
+
+.social-networks i{
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #3a3a3a;
 }
