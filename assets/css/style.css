@@ -98,8 +98,8 @@ h1, h2 {
 #about-text{
     padding: 10px;
   /*float: left;
-    width: 66%;
-    background-color: white; */
+    width: 66%; */
+    background-color: white; 
     box-shadow: 5px 10px #dcc7ac;
    /* background-color: rgba(67, 82, 86, .7); */
 }
@@ -121,7 +121,7 @@ h1, h2 {
 }
 
 #about-text-outer{
-    padding: 2%;
+    padding: 5px;
 }
 
 
