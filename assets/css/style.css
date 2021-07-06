@@ -22,10 +22,16 @@ h1, h2 {
     letter-spacing: 4px;
 }
 
+a {
+    text-decoration: none;
+    color: #000;
+}
+
 #logo{
     float: left;
     font-size: 280%;
     margin-left: 30px;
+    
 }
 
 /*navagation links*/
@@ -153,17 +159,36 @@ footer{
     padding: 5%;
     color: #3a3a3a;
 }
+
+
+/* food and drink page */
+.column {
+    float: left;
+    width: 33%;
+    padding: 5px;
+    box-sizing: border-box;  
+  }
+
+/*   .row {
+    box-sizing: border-box;  
+  } */
+  
+  /* Clear floats after image containers */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+
+
+
 /* media queries*/
 /* For larger to medium screen size from 1200px wide*/
 
 @media screen and (max-width: 1200px){
-    #menu{
+   
 
-    }
-
-    #logo{
-
-    }
 }
 
 /* For medium to smaller screen size from 1200px wide*/
