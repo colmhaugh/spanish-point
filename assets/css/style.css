@@ -169,6 +169,15 @@ footer{
     box-sizing: border-box;  
   }
 
+  .column h2{
+      text-align-last: center;
+      font-size: 225%; 
+  }
+
+  .column p{
+    font-size: 150%; 
+  }
+
 /*   .row {
     box-sizing: border-box;  
   } */
@@ -180,6 +189,7 @@ footer{
     display: table;
   }
 
+  
 
 
 
