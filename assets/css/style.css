@@ -100,8 +100,8 @@ h1, h2 {
   /*float: left;
     width: 66%; */
     background-color: white; 
-    box-shadow: 5px 10px #dcc7ac;
-   /* background-color: rgba(67, 82, 86, .7); */
+   /* box-shadow: 5px 10px #dcc7ac;
+    background-color: rgba(67, 82, 86, .7); */
 }
 
 #about-text h1{
@@ -115,7 +115,7 @@ h1, h2 {
 }
 
 #about-googlemap{
-    padding: 5px;
+    padding: 10px;
    /* float: right;
     width: 33%; */
 }
@@ -152,4 +152,29 @@ footer{
     margin: 1%;
     padding: 5%;
     color: #3a3a3a;
+}
+/* media queries*/
+/* For larger to medium screen size from 1200px wide*/
+
+@media screen and (max-width: 1200px){
+    #menu{
+
+    }
+
+    #logo{
+
+    }
+}
+
+/* For medium to smaller screen size from 1200px wide*/
+
+@media screen and (max-width: 950px){
+    #menu{
+        clear: left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
+    }
+
 }
