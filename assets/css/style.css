@@ -190,7 +190,10 @@ footer{
   }
 
   
-
+.openhours {
+    width: 100%;
+    font-size: 150%;
+}
 
 
 /* media queries*/
