@@ -14,6 +14,14 @@ body {
     background-color: #abd1dc;
     color: #000;
 }
+p{
+    font-size: 150%;
+}
+
+h1{
+    font-size: 225%; 
+}
+
 
 /*headings and logo*/
 
@@ -195,6 +203,18 @@ footer{
     font-size: 150%;
 }
 
+
+/* Activites*/
+
+#golf {
+	padding: 1rem 0;	
+	background: url(../images/SPGolf.webp) center center / cover no-repeat fixed;    
+}
+
+.text-center-white {
+	color: #FFFFFF;
+    text-align: center;
+}
 
 /* media queries*/
 /* For larger to medium screen size from 1200px wide*/
