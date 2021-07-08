@@ -70,6 +70,7 @@ a {
     background-color: #dcc7ac;
 }
 
+
 .active{
     border-bottom: 2px #dcacb2 solid ;
 }
@@ -216,6 +217,9 @@ footer{
     font-size: 150%;
 }
 
+.openhours a:hover{
+    background-color: #dcc7ac;
+}
 
 /* Activites*/
 
