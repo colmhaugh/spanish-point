@@ -89,20 +89,33 @@ a {
     width: 100%;
     background: url(../images/hero-image.webp) no-repeat center center;
     background-size: 100%;
-/* zoom affect on page load */
+/* zoom affect on page load 
     animation-name: hero-zoom;
     animation-duration: 5s;
-    animation-fill-mode: both;
+    animation-fill-mode: both;*/
+}
+
+/*hero text zoom*/
+#hero-text{    
+    font-size: 225%;
+    position: absolute;
+    top: 50%;
+    left: 33%;
+    transform: translate(-50%, -50%);
+    /* zoom affect on page load */
+    animation-name: hero-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
 }
 
 /* creates the level of zoom for image */
 
 @keyframes hero-zoom {
     from{
-        transform: scale(1);
+        transform: scale(1.2);
     }
     to {
-        transform: scale(1.2);
+        transform: scale(2);
     }
     
 }
