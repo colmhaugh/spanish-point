@@ -26,7 +26,7 @@ h1{
 /*headings and logo*/
 
 h1, h2 {
-    font-size: Rancho, sans-serif;
+    font-style: Rancho, sans-serif;
     letter-spacing: 4px;
 }
 
@@ -206,14 +206,26 @@ footer{
 
 /* Activites*/
 
-#golf {
-	padding: 1rem 0;	
-	background: url(../images/SPGolf.webp) center center / cover no-repeat fixed;    
-}
-
 .text-center-white {
 	color: #FFFFFF;
     text-align: center;
+}
+
+#golf {
+	padding: 1rem 0;	
+	background: url(../images/SPGolf.webp) center center / cover no-repeat fixed;    
+    height: 300px;
+}
+
+#surf {
+	padding: 1rem 0;	
+	background: url(../images/SPSurf.webp) center center / cover no-repeat fixed;    
+    height: 300px;
+}
+#walk {
+	padding: 1rem 0;	
+	background: url(../images/SPWalk.webp) center center / cover no-repeat fixed;    
+    height: 300px;
 }
 
 /* media queries*/
