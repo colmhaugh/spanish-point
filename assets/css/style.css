@@ -3,7 +3,7 @@
 /*using colors for coolor.org #abd1dc, #dcacb2, #dcc7ac*/
 *{
     margin: 0;
-    padding: 0;
+    padding: 1px;
     border: none;
 }
 
@@ -12,7 +12,7 @@ body {
     font-family: Rancho, sans-serif;
     font-weight: 300;
     background-color: #abd1dc;
-    color: #3a3a3a
+    color: #000;
 }
 p{
     font-size: 150%;
@@ -221,6 +221,27 @@ footer{
     background-color: #dcc7ac;
 }
 
+/*Adding zoom on hover of hotel images*/
+
+.column img:hover{
+    animation-name: hero-zoom-hotel;
+    animation-duration: 3s;
+    animation-fill-mode: forwards
+}
+/* creates the level of zoom for image */
+
+@keyframes hero-zoom-hotel {
+    from{
+        transform: scale(1);
+    }
+    to {
+        transform: scale(1.05);
+    }
+    
+}
+
+
+
 /* Activites*/
 
 .text-center-white {
@@ -232,6 +253,7 @@ footer{
 	padding: 1rem 0;	
 	background: url(../images/SPGolf.webp) center center / cover no-repeat fixed;    
     height: 300px;
+    
 }
 
 #surf {
