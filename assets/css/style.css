@@ -194,10 +194,12 @@ footer{
   .column h2{
       text-align-last: center;
       font-size: 225%; 
+      background-color: ivory;
   }
 
   .column p{
     font-size: 150%; 
+    background-color: ivory;
   }
 
 /*   .row {
@@ -215,6 +217,7 @@ footer{
 .openhours {
     width: 100%;
     font-size: 150%;
+    background-color: ivory;
 }
 
 .openhours a:hover{
