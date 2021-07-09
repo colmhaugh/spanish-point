@@ -155,6 +155,8 @@ a {
     height:0;
 }
 
+/*Modified text from https://blog.duda.co/ to fix google maps size and padding*/
+
 #about-googlemap iframe{
     left:0;
     top:0;
