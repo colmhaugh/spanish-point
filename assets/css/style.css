@@ -78,12 +78,12 @@ a {
 
 /*hero image*/
 
-#hero-outer{
+/* #hero-outer{
     height: 600px;
     width: 100%;    
     background-size: 100%;
     overflow: hidden;
-}
+} */
 
 
 #hero-image{
@@ -91,6 +91,7 @@ a {
     width: 100%;
     background: url(../images/hero-image.webp) no-repeat center center;
     background-size: 100%;
+    overflow: hidden;
 /* zoom affect on page load 
     animation-name: hero-zoom;
     animation-duration: 5s;
@@ -300,6 +301,11 @@ footer{
 /* For medium to smaller screen size from 1200px wide*/
 
 @media screen and (max-width: 950px){
+   
+    #hero-image{
+        height: 300px;
+    }
+   
     #menu{
         clear: left;
         float: left;
@@ -316,4 +322,8 @@ footer{
       #hero-text {
         visibility: hidden;
       }
+        #extra-text{
+            visibility: hidden;
+    }
+
 }
