@@ -295,6 +295,9 @@ footer{
 }
 
 /*Adding style to buttons*/
+.activites_center{
+    text-align: center;
+}
 
 .activites_button{    
         background-color: #4CAF50;
