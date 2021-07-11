@@ -271,9 +271,10 @@ footer{
 	color: #FFFFFF;
     text-align: center;
     letter-spacing: 4px;
-    font-size: 225%;
+    font-size: 275%;
     top: 50%;
     left: 33%;
+    position: sticky;
 }
 
 #golf {
