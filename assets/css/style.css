@@ -211,6 +211,14 @@ footer{
 
 
 /* food and drink page */
+
+#fooddrink-hero-image{
+    height: 600px;
+    width: 100%;
+    background: url(../images/foodanddrink.webp) no-repeat center center;
+    background-size: 100%;
+    overflow: hidden;
+}
 .column {
     float: left;
     width: 33%;
@@ -354,6 +362,9 @@ footer{
 @media screen and (max-width: 950px){
    
     #hero-image{
+        height: 300px;
+    }
+    #fooddrink-hero-image{
         height: 300px;
     }
    
