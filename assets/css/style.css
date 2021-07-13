@@ -199,7 +199,14 @@ footer{
     font-size: 150%;
     margin: 1%;
     padding: 5%;
-    color: #3a3a3a;
+    color: #000000;
+}
+
+.social-networks img{
+    width: 5%;
+    height: 5%;
+    /* margin: 0px;
+    padding: 0px;     */
 }
 
 
