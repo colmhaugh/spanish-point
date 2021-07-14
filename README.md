@@ -71,9 +71,8 @@ In this section, you should go over the different parts of your project, and des
 ## Testing 
 
 Testing was done early and often.  I uesed the devices in devtools to check how it would look on samller devices.
-I tested my mobile device, Samsung 20 ultra
+I tested my mobile device, Samsung 20 ultra and on iPad.
 Most of the ealry testing was done using Google Developent tools.  
-
 
 
 ### Validator Testing 
