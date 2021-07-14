@@ -76,26 +76,12 @@ a {
     border-bottom: 2px #dcacb2 solid ;
 }
 
-/*hero image*/
-
-/* #hero-outer{
-    height: 600px;
-    width: 100%;    
-    background-size: 100%;
-    overflow: hidden;
-} */
-
-
 #hero-image{
     height: 600px;
     width: 100%;
     background: url(../images/hero-image.webp) no-repeat center center;
     background-size: 100%;
     overflow: hidden;
-/* zoom affect on page load 
-    animation-name: hero-zoom;
-    animation-duration: 5s;
-    animation-fill-mode: both;*/
 }
 
 /*hero text zoom*/
@@ -106,7 +92,6 @@ a {
     top: 50%;
     left: 33%;
     transform: translate(-50%, -50%);
-    /* zoom affect on page load */
     animation-name: hero-zoom;
     animation-duration: 5s;
     animation-fill-mode: forwards;
@@ -128,11 +113,7 @@ a {
 
 #about-text{
     padding: 10px;
-  /*float: left;
-    width: 66%; */
     background-color: ivory; 
-   /* box-shadow: 5px 10px #dcc7ac;
-    background-color: rgba(67, 82, 86, .7); */
 }
 
 #about-text h1{
@@ -146,10 +127,6 @@ a {
 }
 
 #about-googlemap{
-   /* float: right;
-    padding: 10px;
-   /* float: right;
-    width: 33%; */
     overflow:hidden;
     padding-bottom:45%;
     position:relative;
@@ -173,16 +150,12 @@ a {
 
 #about-text-outer div {   
     box-sizing: border-box;  
-   
-  /*  background: url(../images/oceanbackground.webp) no-repeat center center;
-    background-size: 100%; */
 }
 
 /* footer */
 
 footer{
     height: 100px;
-
     }
 
 .social-networks{
@@ -192,8 +165,6 @@ footer{
 .social-networks > li{
     display: inline;
 }
-
-
 
 .social-networks i{
     font-size: 150%;
@@ -205,10 +176,7 @@ footer{
 .social-networks img{
     width: 5%;
     height: 5%;
-    /* margin: 0px;
-    padding: 0px;     */
 }
-
 
 /* food and drink page */
 
@@ -237,17 +205,12 @@ footer{
     background-color: ivory;
   }
 
-/*   .row {
-    box-sizing: border-box;  
-  } */
-  
   /* Clear floats after image containers */
   .row::after {
     content: "";
     clear: both;
     display: table;
   }
-
   
 .openhours {
     width: 100%;
@@ -278,12 +241,10 @@ footer{
     
 }
 
-
-
-/* Activites*/
+/* Activites */
 
 .text-center-white {
-	color: #FFFFFF;
+	color: #fff;
     text-align: center;
     letter-spacing: 4px;
     font-size: 275%;
@@ -292,6 +253,18 @@ footer{
     position: sticky;
 }
 
+.text-center-black {
+	color: #000;
+    text-align: center;
+    letter-spacing: 4px;
+    font-size: 275%;
+    top: 50%;
+    left: 33%;
+    position: sticky;
+}
+
+
+
 #golf {
 	padding: 1rem 0;	
 	background: url(../images/SPGolf.webp) center center / cover no-repeat fixed;    
@@ -299,23 +272,22 @@ footer{
     
 }
 
-#surf-outer{
+/* #surf-outer{
     height: 300px;
     width: 100%;    
     background-size: 100%;
     overflow: hidden;
 
 }
-
+ */
 #surf {
 	padding: 1rem 0;	
 	background: url(../images/SPSurf.webp) center center / cover no-repeat;    
     height: 300px;
-    /* height: 600px;*/
-    width: 100%; 
-    
+    width: 100%;     
     background-size: 100%;
     overflow: hidden;
+    opacity: 0.9;
 
 }
 #walk {
@@ -325,6 +297,7 @@ footer{
 }
 
 /*Adding style to buttons*/
+
 .activites_center{
     text-align: center;
 }
@@ -377,7 +350,6 @@ footer{
       /* remove the welcome text on smaller devices*/
 
       #hero-text {
-        /* visibility: hidden; */
         display: none;
       }
 
