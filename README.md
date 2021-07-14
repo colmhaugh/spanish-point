@@ -18,17 +18,17 @@ In this section, you should go over the different parts of your project, and des
 
 - __The_home_page_image__
 
-  - The Home page includes a photograph of Spanish Point beach.  It has a text overlay that zooms in with a "Welcome to Spanish Point" text to welcome the user to the site. 
-  
+  - The Home page includes a photograph of Spanish Point beach.  It has a text overlay that zooms in with a "Welcome to Spanish Point" text to welcome the user to the site. This text is disabled on smaller devices.
+  - 
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+![Home page hero image](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
 
 - __About_Text_Section__
 
   - The about section will give the visitor information about Spanish Point, including where it is located and information about the history of the area. 
   - The user will get an over view of the area which will encourage them to visit the area.
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+![Google Maps](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
 
 - __Google_Map_section__
 
@@ -39,7 +39,8 @@ In this section, you should go over the different parts of your project, and des
 - __The Footer__ 
 
   - The footer section includes links to the relevant social media sites for Spanish Point. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
+  - The footer is valuable to the user as it encourages them to keep connected via social media.
+  -The  footer includes an  icon to indicate the current weather of the area.
 
 ![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
 
@@ -49,31 +50,29 @@ In this section, you should go over the different parts of your project, and des
   - This section is valuable to the user as it will provide them with information of the opening times of each reatuarant, give them links to the Hotels home page where they can access the Menu and the opening times. 
   - This section has information on 3 businesses.  Each section has an image, this image has a on hoover zoom that indicates that it is interactive, when the image is pressed it will opne the business home page in a different page.
 
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
+![FoodandDrink](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
 
 - __Activites__
 
   - The Activites page will provide the user with information what activites are available to them.  There are 3 activites which the user can get information on.  The activites are divited into 3 sections.  Each section has a button does a function for the activite.  For Golf section the button will allow the user to book a tee time.  For surfing it will provide more information on how to get lessons and Walking section will open a Map in another page. 
+  - The image for the golf and walking is fixed so that the text moves to give the impression of movement.
 
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+![Activites](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
 
 
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 ### Features Left to Implement
 
-- Another feature idea
+- In the footer, the weather icon is in place, in the furure this would be linked to a site and would update to the correct up to date weather.
+- With permissions from the businesses, all links would go to the correct sites.  Currently they are placholders pointing to google.
+- Buttons are currently linked to google as a placeholder, these would be updated too.
 
 ## Testing 
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+Testing was done early and often.  I uesed the devices in devtools to check how it would look on samller devices.
+I tested my mobile device, Samsung 20 ultra
+Most of the ealry testing was done using Google Developent tools.  
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
 
 ### Validator Testing 
@@ -89,7 +88,6 @@ You will need to mention unfixed bugs and why they were not fixed. This section 
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the Settings tab 
