@@ -317,7 +317,12 @@ footer{
 /* For larger to medium screen size from 1200px wide*/
 
 @media screen and (max-width: 1200px){
-   
+    #hero-text {
+        font-size: 225%;
+        position: absolute;
+        top: 33%;
+        left: 33%;
+      }
 
 }
 
