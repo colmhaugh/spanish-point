@@ -317,12 +317,6 @@ footer{
     background-size: 100%;
     overflow: hidden;
 
-/*     height: 600px;
-    width: 100%;
-    background: url(../images/hero-image.webp) no-repeat center center;
-    background-size: 100%;
-    overflow: hidden; */
-
 }
 #walk {
 	padding: 1rem 0;	
@@ -381,11 +375,18 @@ footer{
       }
 
       /* remove the welcome text on smaller devices*/
+
       #hero-text {
-        visibility: hidden;
+        /* visibility: hidden; */
+        display: none;
       }
-/*         #extra-text{
-            visibility: hidden;
-    } */
+
+      /*Make weather image bigger on smaller devices*/
+
+      .social-networks img{
+        width: 10%;
+        height: 10%;
+ 
+    }
 
 }
