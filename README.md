@@ -49,12 +49,13 @@ In this section, you should go over the different parts of your project, and des
   - The Food and Drink page will provide the user with information on where the hotels with restaurants and bars are located. 
   - This section is valuable to the user as it will provide them with information of the opening times of each reatuarant, give them links to the Hotels home page where they can access the Menu and the opening times. 
   - This section has information on 3 businesses.  Each section has an image, this image has a on hoover zoom that indicates that it is interactive, when the image is pressed it will opne the business home page in a different page.
+  - Each section had a table with information of opening hours and a link to a menu and link to their contact
 
 ![FoodandDrink](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
 
 - __Activites__
 
-  - The Activites page will provide the user with information what activites are available to them.  There are 3 activites which the user can get information on.  The activites are divited into 3 sections.  Each section has a button does a function for the activite.  For Golf section the button will allow the user to book a tee time.  For surfing it will provide more information on how to get lessons and Walking section will open a Map in another page. 
+  - The Activites page will provide the user with information what activites are available to them.  There are 3 activites which the user can get information on.  The activites are divited into 3 sections.  Each section has a button does a function for the activity.  For Golf section the button will allow the user to book a tee time.  For surfing it will provide more information on how to get lessons and Walking section will open a Map in another page. 
   - The image for the golf and walking is fixed so that the text moves to give the impression of movement.
 
 ![Activites](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
