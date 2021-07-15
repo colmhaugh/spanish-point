@@ -2,7 +2,7 @@
 
 Welcome to Spanish Point is a site that will give visitors information about the Spanihp Point area, where to eat and what activities are available.  Since Covid-19 there has been an increase in visitors to the area so with this site it will help them with their basic needs. The site will be targeted toward these additional visitors who intend to visit the area.  
 
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
+![Responsice Mockup](https://github.com/colmhaugh/spanish-point/blob/master/assets/images/AmIResponsive.JPG)
 
 ## Features 
 
