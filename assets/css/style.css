@@ -330,10 +330,17 @@ footer{
 /* For medium to smaller screen size from 1200px wide*/
 
 @media screen and (max-width: 950px){
-   
+  
+    /*Smaller image for smaller devices*/
+
     #hero-image{
         height: 250px;
-    }
+        width: 100%;
+        background: url(../images/hero-image.webp) no-repeat center center;
+        background-size: 100%;
+        overflow: hidden;
+    }    
+    
     #fooddrink-hero-image{
         height: 250px;
     }
