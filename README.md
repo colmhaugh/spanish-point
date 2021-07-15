@@ -14,27 +14,27 @@ In this section, you should go over the different parts of your project, and des
   - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Food and Drink page and  Activites page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+![Nav Bar](https://github.com/colmhaugh/spanish-point/blob/master/assets/images/navbar.JPG)
 
 - __The_home_page_image__
 
   - The Home page includes a photograph of Spanish Point beach.  It has a text overlay that zooms in with a "Welcome to Spanish Point" text to welcome the user to the site. This text is disabled on smaller devices.
   - 
 
-![Home page hero image](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+![Home page hero image](https://github.com/colmhaugh/spanish-point/blob/master/assets/images/homepageimage.JPG)
 
 - __About_Text_Section__
 
   - The about section will give the visitor information about Spanish Point, including where it is located and information about the history of the area. 
   - The user will get an over view of the area which will encourage them to visit the area.
 
-![Google Maps](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+![Google Maps](https://github.com/colmhaugh/spanish-point/blob/master/assets/images/about-text.JPG)
 
 - __Google_Map_section__
 
   - This section will allow the user to see exactly where Spanish Point is located. 
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+![Meetup Times](https://github.com/colmhaugh/spanish-point/blob/master/assets/images/google-maps.JPG)
 
 - __The Footer__ 
 
@@ -42,23 +42,32 @@ In this section, you should go over the different parts of your project, and des
   - The footer is valuable to the user as it encourages them to keep connected via social media.
   -The  footer includes an  icon to indicate the current weather of the area.
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+![Footer](https://github.com/colmhaugh/spanish-point/blob/master/assets/images/footer.JPG)
 
 - __Food_and_Drink__
 
   - The Food and Drink page will provide the user with information on where the hotels with restaurants and bars are located. 
   - This section is valuable to the user as it will provide them with information of the opening times of each reatuarant, give them links to the Hotels home page where they can access the Menu and the opening times. 
   - This section has information on 3 businesses.  Each section has an image, this image has a on hoover zoom that indicates that it is interactive, when the image is pressed it will opne the business home page in a different page.
-  - Each section had a table with information of opening hours and a link to a menu and link to their contact
+  - Each section had a table with information of opening hours and a link to a menu and link to their contact.
+  
 
-![FoodandDrink](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
+![FoodandDrink](https://github.com/colmhaugh/spanish-point/blob/master/assets/images/food-and-drink-image.JPG)
+
+![Hotels](https://github.com/colmhaugh/spanish-point/blob/master/assets/images/hotels.JPG)
+
+- On smaller devices the hotels will stack on top of each other.
+
+![Hotels](https://github.com/colmhaugh/spanish-point/blob/master/assets/images/hotelsmall.JPG)
 
 - __Activites__
 
-  - The Activites page will provide the user with information what activites are available to them.  There are 3 activites which the user can get information on.  The activites are divited into 3 sections.  Each section has a button does a function for the activity.  For Golf section the button will allow the user to book a tee time.  For surfing it will provide more information on how to get lessons and Walking section will open a Map in another page. 
+  - The Activites page will provide the user with information what activites are available to them.  There are 3 activites which the user can get information on.  The activites are divited into 3 sections.  Each section has a button does a function for the activity.  For Golf section the button will allow the user to book a tee time.  For surfing it will provide more information on how to get lessons and Walking section will open a Map in another page. CUrrently only the map button is pointing to a map.  
   - The image for the golf and walking is fixed so that the text moves to give the impression of movement.
+  - Background color remained aqua to reflect the blue of the sky and water while doing the activites.
+  - Button color is green to reflect the green of the golf course and of the walking trails.
 
-![Activites](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+![Activites]((https://github.com/colmhaugh/spanish-point/blob/master/assets/images/hotelsmall.JPG)
 
 
 
@@ -66,7 +75,7 @@ In this section, you should go over the different parts of your project, and des
 
 - In the footer, the weather icon is in place, in the furure this would be linked to a site and would update to the correct up to date weather.
 - With permissions from the businesses, all links would go to the correct sites.  Currently they are placholders pointing to google.
-- Buttons are currently linked to google as a placeholder, these would be updated too.
+- Buttons are currently linked to google as a placeholder, these would be updated so the user can book a tee time and book surfing lessons.
 
 ## Testing 
 
