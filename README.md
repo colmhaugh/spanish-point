@@ -65,7 +65,7 @@ Welcome to Spanish Point is a site that will give visitors information about the
   - Background color remained aqua to reflect the blue of the sky and water while doing the activites.
   - Button color is green to reflect the green of the golf course and of the walking trails.
 
-![Activites]((https://github.com/colmhaugh/spanish-point/blob/master/assets/images/activites.JPG)
+![Activites](https://github.com/colmhaugh/spanish-point/blob/master/assets/images/activites.JPG)
 
 
 
