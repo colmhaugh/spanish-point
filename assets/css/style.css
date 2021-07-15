@@ -92,7 +92,7 @@ a {
 #hero-image{
     height: 600px;
     width: 100%;
-    background: url(../images/hero-image.webp) no-repeat center center;
+    background: url(../images/spanishpoint.webp) no-repeat center center;
     background-size: 100%;
     overflow: hidden;
 }
@@ -352,7 +352,7 @@ footer{
     #hero-image{
         height: 250px;
         width: 100%;
-        background: url(../images/hero-image.webp) no-repeat center center;
+        background: url(../images/spanishpoint1.webp) no-repeat center center;
         background-size: 100%;
         overflow: hidden;
     }    
