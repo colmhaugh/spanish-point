@@ -6,7 +6,6 @@ Welcome to Spanish Point is a site that will give visitors information about the
 
 ## Features 
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. 
 ### Existing Features
 
 - __Navigation Bar__
@@ -19,7 +18,6 @@ In this section, you should go over the different parts of your project, and des
 - __The_home_page_image__
 
   - The Home page includes a photograph of Spanish Point beach.  It has a text overlay that zooms in with a "Welcome to Spanish Point" text to welcome the user to the site. This text is disabled on smaller devices.
-  - 
 
 ![Home page hero image](https://github.com/colmhaugh/spanish-point/blob/master/assets/images/homepageimage.JPG)
 
@@ -39,7 +37,7 @@ In this section, you should go over the different parts of your project, and des
 - __The Footer__ 
 
   - The footer section includes links to the relevant social media sites for Spanish Point. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer includes an  icon to indicate the current weather of the area.
+  - The footer includes an icon to indicate the current weather of the area, the icon is a link to a weather forecast site.
 
 ![Footer](https://github.com/colmhaugh/spanish-point/blob/master/assets/images/footer.JPG)
 
@@ -67,7 +65,7 @@ In this section, you should go over the different parts of your project, and des
   - Background color remained aqua to reflect the blue of the sky and water while doing the activites.
   - Button color is green to reflect the green of the golf course and of the walking trails.
 
-![Activites]((https://github.com/colmhaugh/spanish-point/blob/master/assets/images/hotelsmall.JPG)
+![Activites]((https://github.com/colmhaugh/spanish-point/blob/master/assets/images/activites.JPG)
 
 
 
