@@ -114,6 +114,7 @@ The live link can be found here - https://colmhaugh.github.io/spanish-point/
 
 ### Content 
 
+- Text for inforamtion on Spanish Point taken from (https://www.clare.ie/place/spanish-point/)
 - Text for Surfing section in activites is taken from (http://visitspanishpoint.ie/surfing/)
 - Information for spanish point golf club was taken from (http://www.spanishpointgolfing.com/Home.aspx)
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
@@ -122,6 +123,7 @@ The live link can be found here - https://colmhaugh.github.io/spanish-point/
 
 ### Media
 
-- Photos for Spanish Point beach hero image and Walking is by Honor Kyne.
+- Photos for Spanish Point beach hero image, Golf and Walking is by Honor Kyne.
 - Photos Food and Drink hero image is from [ShutterStock](https://www.shutterstock.com/)
+- Photos of hotels are taken from their website.
 
