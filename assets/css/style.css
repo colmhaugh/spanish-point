@@ -129,7 +129,7 @@ a {
     background-color: ivory; 
 }
 
-#about-text h1{
+#about-text h2{
     text-align: center;   
     font-size: 225%; 
     letter-spacing: 4px;
@@ -254,6 +254,7 @@ footer{
     }
     
 }
+
 
 /* Activites */
 
