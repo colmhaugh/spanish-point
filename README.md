@@ -1,6 +1,6 @@
 # Welcome to Spanish Point
 
-Welcome to Spanish Point is a site that will give visitors information about the area, where to eat and what activities are available.  Since Covid-19 there has been an increase in visitors to the area so with this site it will help them with their basic needs. The site will be targeted toward these additional visitors who intend to visit the area.  
+Welcome to Spanish Point is a site that will give visitors information about the Spanihp Point area, where to eat and what activities are available.  Since Covid-19 there has been an increase in visitors to the area so with this site it will help them with their basic needs. The site will be targeted toward these additional visitors who intend to visit the area.  
 
 ![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
 
@@ -71,8 +71,9 @@ In this section, you should go over the different parts of your project, and des
 ## Testing 
 
 Testing was done early and often.  I uesed the devices in devtools to check how it would look on samller devices.
+I published early so i could test on mobile phone after every push.
 I tested my mobile device, Samsung 20 ultra and on iPad.
-Most of the ealry testing was done using Google Developent tools.  
+Most of the ealry testing was done using Google Developent tools.
 
 
 ### Validator Testing 
@@ -98,16 +99,21 @@ The live link can be found here - https://code-institute-org.github.io/love-runn
 
 
 ## Credits 
-
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
-
-You can break the credits section up into Content and Media, depending on what you have included in your project. 
+ 
+- Header and Footer was inspired from Love Running Project.
+- Margin, Button and any other basic review from [w3school] (https://www.w3schools.com/)
+- Color theme from [coolors] (https://www.coolors.co/)
+- Remove h1 from the header for smaller devices [css-tricks] (https://www.css-tricks.com)
 
 ### Content 
 
 - The text for the Home page was taken from Wikipedia Article A
 - Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
+- Photos for Spanish Point beach hero image and Walking is by Honor Kyne.
+- Photos Food and Drink hero image is from [ShutterStock](https://www.shutterstock.com/)
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- Icon for the weather in the Footer was from [onlinewebponts] (https://www.onlinewebfonts.com/icon/154)
+
 
 ### Media
 
