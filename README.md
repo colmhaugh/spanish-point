@@ -109,14 +109,14 @@ The live link can be found here - https://code-institute-org.github.io/love-runn
 
 - The text for the Home page was taken from Wikipedia Article A
 - Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
-- Photos for Spanish Point beach hero image and Walking is by Honor Kyne.
-- Photos Food and Drink hero image is from [ShutterStock](https://www.shutterstock.com/)
+- Text for Surfing section in activites is taken from (http://visitspanishpoint.ie/surfing/)
+- Information for spanish point golf club was taken from (http://www.spanishpointgolfing.com/Home.aspx)
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 - Icon for the weather in the Footer was from [onlinewebponts] (https://www.onlinewebfonts.com/icon/154)
 
 
 ### Media
 
-- The photos used on the home and sign up page are from This Open Source site
-- The images used for the gallery page were taken from this other open source site
+- Photos for Spanish Point beach hero image and Walking is by Honor Kyne.
+- Photos Food and Drink hero image is from [ShutterStock](https://www.shutterstock.com/)
 
