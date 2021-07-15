@@ -272,14 +272,14 @@ footer{
 
 #golf {
 	padding: 1rem 0;	
-	background: url(../images/SPGolf.webp) center center / cover no-repeat fixed;    
+	background: url(../images/spgolf.webp) center center / cover no-repeat fixed;    
     height: 300px;
     
 }
 
 #surf {
 	padding: 1rem 0;	
-	background: url(../images/SPSurf.webp) center center / cover no-repeat;    
+	background: url(../images/spsurf.webp) center center / cover no-repeat;    
     height: 300px;
     width: 100%;     
     background-size: 100%;
@@ -289,7 +289,7 @@ footer{
 }
 #walk {
 	padding: 1rem 0;	
-	background: url(../images/SPWalk.webp) center center / cover no-repeat fixed;    
+	background: url(../images/spwalk.webp) center center / cover no-repeat fixed;    
     height: 300px;
 }
 
