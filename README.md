@@ -10,25 +10,25 @@ Welcome to Spanish Point is a site that will give visitors information about the
 
 - __Navigation Bar__
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Food and Drink page and  Activites page and is identical in each page to allow for easy navigation.
+  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Food and Drink page and Activites page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
 ![Nav Bar](https://github.com/colmhaugh/spanish-point/blob/master/assets/images/navbar.JPG)
 
-- __The_home_page_image__
+- __The home page image__
 
   - The Home page includes a photograph of Spanish Point beach.  It has a text overlay that zooms in with a "Welcome to Spanish Point" text to welcome the user to the site. This text is disabled on smaller devices.
 
 ![Home page hero image](https://github.com/colmhaugh/spanish-point/blob/master/assets/images/homepageimage.JPG)
 
-- __About_Text_Section__
+- __About Text Section__
 
   - The about section will give the visitor information about Spanish Point, including where it is located and information about the history of the area. 
   - The user will get an overview of the area which will encourage them to visit the area.
 
 ![Google Maps](https://github.com/colmhaugh/spanish-point/blob/master/assets/images/about-text.JPG)
 
-- __Google_Map_section__
+- __Google Map section__
 
   - This section will allow the user to see exactly where Spanish Point is located. 
 
@@ -41,11 +41,11 @@ Welcome to Spanish Point is a site that will give visitors information about the
 
 ![Footer](https://github.com/colmhaugh/spanish-point/blob/master/assets/images/footer.JPG)
 
-- __Food_and_Drink__
+- __Food and Drink__
 
   - The Food and Drink page will provide the user with information on where the hotels with restaurants and bars are located. 
   - This section is valuable to the user as it will provide them with information of the opening times of each reatuarant, give them links to the Hotels home page where they can access the Menu and the opening times. 
-  - This section has information on 3 businesses.  Each section has an image, this image has a on hoover zoom that indicates that it is interactive, when the image is pressed it will open the business home page in a different page.
+  - This section has information on 3 businesses.  Each section has an image, this image has an on hoover zoom that indicates that it is interactive, and when the image is pressed it will open the business home page in a different page.
   - Each section had a table with information of opening hours and a link to a menu and link to their contact.
   
 
@@ -57,9 +57,9 @@ Welcome to Spanish Point is a site that will give visitors information about the
 
 ![Hotels](https://github.com/colmhaugh/spanish-point/blob/master/assets/images/hotelsmall.JPG)
 
-- __Activites__
+- __Activities__
 
-  - The Activites page will provide the user with information what activites are available to them.  There are 3 activites which the user can get information on.  The activites are divited into 3 sections.  Each section has a button does a function for the activity. The button for the golf and the surfing section are pointing to google as a place holder.   
+  - The Activities page will provide the user with information what activites are available to them.  There are 3 activites which the user can get information on.  The activites are divited into 3 sections.  Each section has a button does a function for the activity. The button for the golf and the surfing section are pointing to google as a place holder.   
   - The button for Walking will open up a walking map with differnt routes in the area.
   - The image for the golf and walking is fixed so that the text moves to give the impression of movement.
   - Background color remained aqua to reflect the blue of the sky and water while doing the activites.
@@ -81,18 +81,19 @@ Testing was done early and often.  I uesed the devices in devtools to check how 
 I published early so i could test on mobile phone every eveining after a push.
 I tested my mobile device, Samsung 20 ultra and on iPad.
 Most of the ealry testing was done using Google Developent tools.
+Issues were fixed as they appeared.
 
 
 ### Validator Testing 
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
+  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/#textarea)
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator)
 
 ### Unfixed Bugs
 
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
+The links for The Coast Lodge were not secure so have the links pointing to google.
 
 ## Deployment
 
@@ -107,16 +108,21 @@ The live link can be found here - https://colmhaugh.github.io/spanish-point/
 
 ## Credits 
  
+- Advice and guidance from my mentor Precious Ijege.
+- Great leadership and guidance from Kasia Bogucka.
+- Great links from colleagues in my course.
 - Header and Footer was modified from Love Running Project.
-- Margin, Button and any other basic review from [w3school] (https://www.w3schools.com/)
+- Margin, Button and any other basic review from Code Institute lessons and from [w3school] (https://www.w3schools.com/)
 - Color theme from [coolors] (https://www.coolors.co/)
 - Remove h1 from the header for smaller devices [css-tricks] (https://www.css-tricks.com)
+- Food and drink display on smaller devices from [css-tricks] (https://www.css-tricks.com) and Love Running project.
 
 ### Content 
 
 - Text for inforamtion on Spanish Point taken from (https://www.clare.ie/place/spanish-point/)
 - Text for Surfing section in activites is taken from (http://visitspanishpoint.ie/surfing/)
-- Information for spanish point golf club was taken from (http://www.spanishpointgolfing.com/Home.aspx)
+- Text for the hotels from their websites.
+- Information for Spanish Point golf club was taken from (http://www.spanishpointgolfing.com/Home.aspx)
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 - Icon for the weather in the Footer was from [onlinewebponts] (https://www.onlinewebfonts.com/icon/154)
 
