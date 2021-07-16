@@ -355,11 +355,7 @@ footer{
     /*Image height smaller for smaller devices*/
 
     #hero-image{
-        height: 250px;
-        width: 100%;
-        background: url(../images/spanishpoint1.webp) no-repeat center center;
-        background-size: 100%;
-        overflow: hidden;
+        height: 250px;        
     }    
     
     #fooddrink-hero-image{
