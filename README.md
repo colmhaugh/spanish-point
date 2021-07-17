@@ -100,15 +100,17 @@ I tested my mobile device, Samsung 20 ultra and on iPad.
 Most of the early testing was done using Google Developent tools.
 Issues were fixed as they appeared.
 
+# Issues fixed
+
 - I had in issue where the images for the hotels in the food and drink page.  The image was showing up while I was testing but not when I was testing on the live site.  I used google develpoer tools to inspect and discovered that i had added an extra dot so it was looking for the image in the wrong location.  It was img src="../assets/images/  and once i changed it to img src="./assets/images/ it worked.
 - While testing on smaller devices, the ""Welcome to Spanish Point" overlay text didnt look good on smaller devices.  I made the hero-text display to none so it wouldnt appear on phones.  
 - I also made the hero-text higher on tablets so it would look better.
 - There was not enough room on small devices for the 3 hotels to appear in a row so i put them in a column.
 - Some images were loading slowly so i lowered the quality of the image.
 
-
-
-
+# Further testing
+- The Website was tested on multiple browsers including Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
+- The website was viewed on a variety of devices such as Desktop, Laptop, Samsung S20 Ultra, iPhone 11 & iPad.
 
 
 ### Validator Testing 
@@ -124,14 +126,21 @@ The links for The Coast Lodge were not secure so have the links pointing to goog
 
 ## Deployment
 
-
-- The site was deployed to GitHub pages. The steps to deploy are as follows: 
+  - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the Settings tab 
+  - There is a table on the left of the screen, scroll down to the 2nd last option where you can select "Pages" option.
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-The live link can be found here - https://colmhaugh.github.io/spanish-point/
+## Making a Local Clone
 
+  - The site was deployed to GitHub pages. The steps to deploy are as follows: 
+  - On the top of the page there is a green button "Code".
+  - Press the button and To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
+  - Open Git Bash
+  - Change the current working directory to the location where you want the cloned directory to be made.
+  - Type git clone, and then paste the URL you copied in Step 3.
+  - Press Enter. Your local clone will be created.
 
 ## Credits 
  
