@@ -1,5 +1,7 @@
 # Welcome to Spanish Point
 
+ [View the live project here](https://colmhaugh.github.io/spanish-point/)
+
 Welcome to Spanish Point is a site that will give visitors information about the Spanish Point area, where to eat and what activities are available.  Since Covid-19 there has been an increase in visitors to the area so with this site it will help them with their basic needs. The site will be targeted toward these additional visitors who intend to visit the area.  
 
 ![Responsice Mockup](https://github.com/colmhaugh/spanish-point/blob/master/assets/images/AmIResponsive.JPG)
@@ -75,6 +77,21 @@ Welcome to Spanish Point is a site that will give visitors information about the
 - The links for the coast lodge is not secure so they are currently pointing to google.
 - Buttons are currently linked to google as a placeholder, these would be updated so the user can book a tee time and book surfing lessons.
 
+## Technologies Used 
+
+### Languages Used
+
+  - [HTML5](https://en.wikipedia.org/wiki/HTML5)
+  - [CSS](https://en.wikipedia.org/wiki/CSS)
+
+### Libraries & Programs Used
+
+  - Hover.css was used on the nav bar list items, the contact and menu links in the food and drinks page.  It was use in the food and drinks page over the images of the hotels to make them zoom to indicate that they are interactive.
+  - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
+  - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+  - GitHub is used to store the projects code after being pushed from Git.
+
+
 ## Testing 
 
 Testing was done early and often.  I uesed the devices in devtools to check how it would look on samller devices after every push as part of my regression testing.
@@ -82,6 +99,16 @@ I published early so I could test on mobile phone every eveining after a push.
 I tested my mobile device, Samsung 20 ultra and on iPad.
 Most of the early testing was done using Google Developent tools.
 Issues were fixed as they appeared.
+
+- I had in issue where the images for the hotels in the food and drink page.  The image was showing up while I was testing but not when I was testing on the live site.  I used google develpoer tools to inspect and discovered that i had added an extra dot so it was looking for the image in the wrong location.  It was img src="../assets/images/  and once i changed it to img src="./assets/images/ it worked.
+- While testing on smaller devices, the ""Welcome to Spanish Point" overlay text didnt look good on smaller devices.  I made the hero-text display to none so it wouldnt appear on phones.  
+- I also made the hero-text higher on tablets so it would look better.
+- There was not enough room on small devices for the 3 hotels to appear in a row so i put them in a column.
+- Some images were loading slowly so i lowered the quality of the image.
+
+
+
+
 
 
 ### Validator Testing 
