@@ -39,7 +39,7 @@ Welcome to Spanish Point is a site that will give visitors information about the
 - __The Footer__ 
 
   - The footer section includes links to the relevant social media sites for Spanish Point. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer includes an icon to indicate the current weather of the area, the icon is a link to a weather forecast site.
+  - The footer includes an icon to indicate the current weather of the area,  this icon is made a bit bigger thatn the other icons so that it stands out.  The icon is a link to a weather forecast site.
 
 ![Footer](https://github.com/colmhaugh/spanish-point/blob/master/assets/images/footer.JPG)
 
@@ -107,6 +107,7 @@ Issues were fixed as they appeared.
 - I also made the hero-text higher on tablets so it would look better.
 - There was not enough room on small devices for the 3 hotels to appear in a row so i put them in a column.
 - Some images were loading slowly so i lowered the quality of the image.
+- Copied the text to word doc and preformed a spell check to catch any errors.
 
 # Further testing
 - The Website was tested on multiple browsers including Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
