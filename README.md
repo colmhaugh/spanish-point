@@ -1,6 +1,8 @@
 # Welcome to Spanish Point
 
- [View the live project here](https://colmhaugh.github.io/spanish-point/){:target="_blank"}
+<a href="https://colmhaugh.github.io/spanish-point/" target="_blank">View the live project here</a>
+
+ 
 
 Welcome to Spanish Point is a site that will give visitors information about the Spanish Point area.  It is structured so that the user can find information on where they can eat and drink and aslo what activities are available.  Since Covid-19 there has been an increase in visitors to the area so with this site it will help them with their basic needs. The site will be targeted toward these additional visitors who intend to visit the area.  
 
