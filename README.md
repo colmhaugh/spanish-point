@@ -146,7 +146,7 @@ The links for The Coast Lodge were not secure so have the links pointing to goog
  
 - Advice and guidance from my mentor Precious Ijege.
 - Great leadership and guidance from Kasia Bogucka.
-- Great links from colleagues in my course.
+- Great links and advice from colleagues in my course.
 - Header and Footer was modified from Love Running Project.
 - Margin, Button and any other basic review from Code Institute lessons and from [w3school] (https://www.w3schools.com/)
 - Color theme from [coolors] (https://www.coolors.co/)
