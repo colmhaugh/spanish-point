@@ -288,9 +288,7 @@ footer{
     height: 300px;
     width: 100%;     
     background-size: 100%;
-    overflow: hidden;
-    opacity: 0.9;
-
+    overflow: hidden; 
 }
 
 /*Images fixed for golf and walk*/
